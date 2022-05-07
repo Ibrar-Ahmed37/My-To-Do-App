@@ -1,0 +1,22 @@
+.center-div{
+    display:flex;
+    justify-content:center;
+    color: white;
+}
+.input-style{
+    padding:10px;
+    background-color: #303030;
+    color: white;
+    font-size: large;
+}
+::placeholder{
+    color: #808080;
+}
+.span-style
+{
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}

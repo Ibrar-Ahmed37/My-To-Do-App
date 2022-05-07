@@ -1,0 +1,15 @@
+.div-center{
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+}
+.list-style{
+    background-color: #303030;
+    color: aliceblue;
+    padding:10px;
+    margin-bottom: -15;
+    cursor: pointer;
+}
+li{
+    list-style: none; 
+}
